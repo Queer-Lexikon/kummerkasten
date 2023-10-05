@@ -1,0 +1,14 @@
+<?php
+$notification_mail = "mail@example.com";
+
+$spam_mail = "checkMeWeekly@example.com";
+$send_mail_for_spam_entries = true;
+
+$post_title = "Neue Dinge: ";
+$mail_title = "Neue Dinge: ";
+
+$post_category = 1;
+$post_author = 1;
+$post_thumbnail_id = 1; // delete line if no thumbnail needed
+
+?>
